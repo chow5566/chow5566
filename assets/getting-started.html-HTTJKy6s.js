@@ -1,1 +1,0 @@
-import{_ as e,o as t,c,a as n}from"./app-T25t1rlu.js";const o={},s=n("p",null,"快速开始",-1),_=[s];function a(r,l){return t(),c("div",null,_)}const i=e(o,[["render",a],["__file","getting-started.html.vue"]]);export{i as default};
